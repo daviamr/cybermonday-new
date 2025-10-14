@@ -1,0 +1,85 @@
+<div class="newsletter bg-dark-light text-white fixed-bottom d-none">
+  <div class="line-blue"></div>
+  <div class="container">
+    <div class="row px-1 px-lg-0 py-2 d-flex justify-content-center align-items-center ">
+      <div class="col-12 col-lg-4 pb-2 pb-lg-0">
+        <p class="px-lg-0 text-center text-lg-start">
+          Cadastre-se e receba em seu email as melhores ofertas em primeira mão!
+        </p>
+      </div>
+      <div class="col-12 col-lg-4">
+        <form
+          id="form_newsletter"
+          class="row justify-content-center g-3"
+          onsubmit="return false;"
+          method="post"
+          novalidate
+        >
+          <div class="col-4">
+            <input
+              type="text"
+              name="fullname"
+              class="form-control"
+              id="fullname"
+              placeholder="Nome"
+              required oninvalid="this.setCustomValidity('Preencha seu nome')"
+            />
+          </div>
+          <div class="col-4">
+            <input
+              type="email"
+              name="email"
+              placeholder="E-mail"
+              class="form-control"
+              placeholder=""
+              autocomplete="on"
+              autocompletetype="”email”"
+              required oninvalid="this.setCustomValidity('Preencha seu e-mail')"
+            />
+          </div>
+          <div class="col-4">
+            <button class="btn btn-primary btn-submit" type="submit">
+              Cadastrar
+            </button>
+          </div>
+          <div class="col-12 align-items-center m-0">
+            <div class="form-check mb-0 pt-1 d-flex align-items-center">
+              <input
+                class="form-check-input"
+                type="checkbox"
+                value=""
+                id="concordo"
+                required oninvalid="this.setCustomValidity('Aceite os termos de uso')"
+              />
+              <label
+                class="form-check-label newsletter-checkbox px-2"
+                for="concordo"
+              >
+                <a href="assets/termos-de-uso.pdf" target="_blank">Li e aceito os  termos de uso.</a>
+              </label>
+            </div>
+          </div>
+          <div class="col-12 d-none text-center msg-success">
+            <p>Obrigado por seu cadastro!</p>
+          </div>
+        </form>
+      </div>
+      <div class="col-12 col-lg-4 d-flex flex-row justify-content-end justify-content-lg-center align-items-center">
+        <p class="newsletter-p px-lg-2">compartilhe:</p>
+        <a
+          class="px-2"
+          href="https://chat.whatsapp.com/DOn3IaCO8m3AF99dEp77kz"
+          target="_blank">
+          <img
+            src="https://cybermondaybrasil.com.br/assets/image/whatsapp.png"
+            alt="Whatsapp"/>
+        </a>
+        <a href="https://web.facebook.com/SiteBlackFriday" target="_blank">
+          <img
+            src="https://cybermondaybrasil.com.br/assets/image/facebook.png"
+            alt="Facebook"/>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

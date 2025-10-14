@@ -1,0 +1,139 @@
+#Adsense
+google.com, pub-6535851965149046, DIRECT, f08c47fec0942fa0
+
+#Equativ SSPs
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+video.unrulymedia.com, 2564526802, RESELLER
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
+pubnative.net, 1006576, RESELLER, d641df8625486a7b
+verve.com, 15503, RESELLER, 0c8f5958fc2d6270
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
+axonix.com, 57264, RESELLER
+admanmedia.com, 43, RESELLER
+sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+
+#Equativ SSP ressellers
+contextweb.com, 562499, RESELLER, 89ff185a4c4e857c #Loopme (app)
+conversantmedia.com, 100246, RESELLER, 03113cd04947736d #Loopme (app)
+freewheel.tv, 1137745, RESELLER #Loopme (app, CTV, web)
+freewheel.tv, 1138513, RESELLER #Loopme (app, CTV, web)
+media.net, 8CUN37DCC, RESELLER #Loopme (app)
+onairglobal.com, 4357627, RESELLER #Loopme (app)
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6 #Loopme (app, web)
+opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3 #Loopme (app, web)
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace #Loopme (app, web)
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807 #Loopme (app, web)
+Se7en.es, 212503, RESELLER, 064bc410192443d8 #Loopme (app)
+sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2 #Loopme (app, web)
+thebrave.io, 1234585, RESELLER, c25b2154543746ac #Loopme (app)
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86 #Loopme (app, CTV, web)
+videoheroes.tv, 212503, RESELLER, 064bc410192443d8 #Loopme (app)
+xandr.com, 13799, RESELLER #Loopme (app, CTV, web)
+yeahmobi.com, 5135284, Reseller #Loopme (app)
+gothamads.com, 1236 , RESELLER, d9c86e5dec870222 #Loopme (web)
+hyperad.tech, 172, RESELLER #Loopme (web)
+hyperad.tech, 182, RESELLER #Loopme (web)
+improvedigital.com, 1532, RESELLER #Loopme (web)
+improvedigital.com, 2110, RESELLER #Loopme (web)
+lijit.com, 400766, RESELLER, fafdf38b16bf6b2b #Loopme (web)
+smaato.com, 1100042823, RESELLER, 07bcf65f187117b4 #Loopme (web)
+smartadserver.com, 4140, RESELLER #Loopme (web)
+sovrn.com, 400766, RESELLER, fafdf38b16bf6b2b #Loopme (web)
+video.unrulymedia.com, 123476257, RESELLER #Loopme (web)
+yahoo.com, 59959, RESELLER #Loopme (web)
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4 #Smaato
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4 #Smaato
+adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176 #Smaato
+adelement.com, 30208, RESELLER #Smaato
+admanmedia.com, 552, RESELLER #Smaato
+adview.com, 06667060, RESELLER, 1b2cc038a11ea319 #Smaato
+appads.in, 107606, RESELLER #Smaato
+appnexus.com, 1752, RESELLER, f5ab79cb980f11d1 #Smaato
+appnexus.com, 4052, RESELLER #Smaato
+bidence.com, d35302328a4b1f129d376f9c2932b0b7, RESELLER #Smaato
+bidmachine.io, 36, RESELLER #Smaato
+bidmachine.io, 60, RESELLER #Smaato
+bidmachine.io, 74, RESELLER #Smaato
+bidmachine.io, 77, RESELLER #Smaato
+blis.com, 86, RESELLER, 61453ae19a4b73f4 #Smaato
+contextweb.com, 558622, RESELLER, 89ff185a4c4e857c #Smaato
+conversantmedia.com, 100246, RESELLER, 03113cd04947736d #Smaato
+e-planning.net, b37ed21aa3e45e7e, RESELLER, c1ba615865ed87b2 #Smaato
+gitberry.com, 90scb, RESELLER #Smaato
+indexexchange.com, 183920, RESELLER, 50b1c356f2c5c8fc #Smaato
+indexexchange.com, 184270, RESELLER, 50b1c356f2c5c8fc #Smaato
+inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d #Smaato
+iqzone.com, IQ39, RESELLER #Smaato
+lkqd.net, 647, RESELLER, 59c49fa9598a0117 #Smaato
+lkqd.net, 654, RESELLER, 59c49fa9598a0117 #Smaato
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b #Smaato
+mars.media, 107876, RESELLER, 8624339f102fb076 #Smaato
+mars.media, 107876, RESELLER, 8624339f102fb076 #Smaato
+mintegral.com, 10026, RESELLER #Smaato
+mobilefuse.com, 2281, RESELLER, 71e88b065d69c021 #Smaato
+movve.com, 4350252, RESELLER #Smaato
+openx.com, 540421297, RESELLER, 6a698e2ec38604c6 #Smaato
+opera.com, pub4444433466368, RESELLER, 55a0c5fd61378de3 #Smaato
+pokkt.com, 5886, RESELLER, c45702d9311e25fd #Smaato
+pubmatic.com, 156177, RESELLER, 5d62403b186f2ace #Smaato
+pubmatic.com, 156425, RESELLER, 5d62403b186f2ace #Smaato
+pubmatic.com, 162158, RESELLER, 5d62403b186f2ace #Smaato
+pubnative.net, 1004796, RESELLER, d641df8625486a7b #Smaato
+pubnative.net, 1007194, RESELLER, d641df8625486a7b #Smaato
+rubiconproject.com, 13132, Reseller, 0bfd66d529a55807 #Smaato
+rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807 #Smaato
+rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807 #Smaato
+rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807 #Smaato
+se7en.es, 212459, RESELLER, 064bc410192443d8 #Smaato
+smartadserver.com, 3117, RESELLER #Smaato
+smartyads.com, 100115, RESELLER, fd2bde0ff2e62c5d #Smaato
+ssp.e-volution.ai, AJxF6R189a9M6CaTvK, RESELLER #Smaato
+verve.com, 14619, RESELLER, 0c8f5958fc2d6270 #Smaato
+video.unrulymedia.com, 4201299756, RESELLER #Smaato
+videoheroes.tv, 212459, RESELLER, 064bc410192443d8 #Smaato
+vidoomy.com, 4350252, RESELLER #Smaato
+webeyemob.com, 70107, RESELLER #Smaato
+xad.com, 241, RESELLER, 81cbf0a75a5e0e9a #Smaato
+App-stock.com,343264,RESELLER #Smaato
+admixer.co.kr, 1094, RESELLER #Smaato
+uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be #Smaato
+freewheel.tv, 1157729, RESELLER #Smaato
+freewheel.tv, 1446674, RESELLER #Smaato
+freewheel.tv, 1157777, RESELLER #Smaato
+yahoo.com, 58935, RESELLER, e1a5b5b6e3255540 #Smaato
+pubnative.net, 1004796, RESELLER, d641df8625486a7b #Smaato
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807 #Smaato
+openx.com, 540543195, RESELLER, 6a698e2ec38604c6 #Smaato
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace #Smaato
+pubmatic.com, 161368, RESELLER, 5d62403b186f2ace #Smaato
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807 #Xad
+appnexus.com, 14077, RESELLER #Axonix (emodonic)
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace #AcuityAds (Adman Media)
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807 #AcuityAds (Adman Media)
+sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e #AcuityAds (Adman Media)
+rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47 #AcuityAds (Adman Media)
+inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d #AcuityAds (Adman Media)
+33across.com, 0015a00002egvRSAAY, RESELLER, bbea06d9c4d2853c #AcuityAds (Adman Media)
+visiblemeasures.com, 1017, RESELLER #AcuityAds (Adman Media)
+pubmatic.com, 162974, RESELLER, 5d62403b186f2ace #AcuityAds (Adman Media)
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace #Verve (Pubnative)
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807 #Verve (Pubnative)
+App-stock.com, 317847, RESELLER #Verve (Pubnative)
+yeahmobi.com, 5135128, RESELLER #Verve (Pubnative)
+videoheroes.tv, 212432, RESELLER, 064bc410192443d8 #Verve (Pubnative)
+Bridgeupp.com, 14725, RESELLER #Verve (Pubnative)
+start.io, pbn, RESELLER #Verve (Pubnative)
+Rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807 #Verve (Pubnative)
+pubmatic.com, 161144, RESELLER, 5d62403b186f2ace #Verve (Pubnative)
+pubmatic.com, 161368, RESELLER, 5d62403b186f2ace #Verve (Pubnative)
+video.unrulymedia.com, 4173858586, RESELLER #Verve (Pubnative)
+lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf #Verve (Pubnative)
+
+#Contato
+contact=http://leadmedia.com.br/contato.php

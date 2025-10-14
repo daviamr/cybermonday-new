@@ -1,0 +1,14 @@
+Sitemap: https://www.cybermondaybrasil.com.br/sitemap.xml
+
+
+User-agent: *
+Disallow: /homolog/
+Disallow: /bkp/
+Disallow: /BKP_10042023/
+Disallow: /BKP_12042023/
+Disallow: /BKP_220523/
+Disallow: /image/
+Disallow: /BKP-06062023-index.html
+Disallow: /BKP-13062023-index.html
+
+
