@@ -47,7 +47,7 @@ header .navbar-toggler-icon {
     width: 100%;
 }
 .bg-shadow{
-    background: url(https://cybermondaybrasil.com.br/assets/image/bgbanner.jpg);
+    background-image: url(/assets/image/bgbanner.jpg);
     background-size:contain;
     background-repeat: no-repeat;
     background-color:#94cd42;
@@ -110,7 +110,7 @@ a.flip-animate:focus span:before {
 }
 /*Copy css clube de descontos - slider*/
 .wrap-clube-descontos {
-    background: url(https://cybermondaybrasil.com.br/assets/image/bg-whats-black.jpg) center top repeat-x;
+    background: url(/assets/image/bg-whats-black.jpg) center top repeat-x;
     padding-bottom: 20px;
 }
 .owl-carousel{
@@ -570,7 +570,7 @@ a.flip-animate:focus span:before {
 
 /*section group whatsapp*/
 .group-whatsapp {
-    background: url(https://cybermondaybrasil.com.br/assets/image/bg-whats-black.jpg);
+    background: url(/assets/image/bg-whats-black.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -610,7 +610,7 @@ a.flip-animate:focus span:before {
     border:none;
 }
 .group-whatsapp #WhatsappModal .modal-footer{
-    background: url(https://cybermondaybrasil.com.br/assets/image/bg-whats.png) center center no-repeat;
+    background: url(/assets/image/bg-whats.png) center center no-repeat;
     background-size: cover;
     flex-direction: column;
     justify-content: center;

@@ -8,7 +8,6 @@
     }
 
     .banner {
-        /* background-image: url(https://cybermondaybrasil.com.br/assets/image/bgbanner.jpg); */
         background-image: url(/assets/image/bgbanner.jpg);
         background-repeat: no-repeat;
         background-size: cover;

@@ -29,7 +29,7 @@ $(document).ready(function () {
         <div class="row">
           <div class="col-lg-3 col-md-6 col-6 destaque-item">
             <a
-              href="https://cybermondaybrasil.com.br/blog/${apiResult[0].post_web_url}.html"
+              href="https://cybermonday.com.br/blog/${apiResult[0].post_web_url}.html"
               class="destaque-link"
             >
               <figure>
@@ -49,7 +49,7 @@ $(document).ready(function () {
           </div>
           <div class="col-lg-3 col-md-6 col-6 destaque-item">
           <a
-          href="https://cybermondaybrasil.com.br/blog/${apiResult[1].post_web_url}.html"
+          href="https://cybermonday.com.br/blog/${apiResult[1].post_web_url}.html"
           class="destaque-link"
         >
           <figure>
@@ -71,7 +71,7 @@ $(document).ready(function () {
             class="col-lg-3 col-md-6 col-6 destaque-item d-none d-md-block"
           >
           <a
-          href="https://cybermondaybrasil.com.br/blog/${apiResult[2].post_web_url}.html"
+          href="https://cybermonday.com.br/blog/${apiResult[2].post_web_url}.html"
           class="destaque-link"
         >
           <figure>
@@ -93,7 +93,7 @@ $(document).ready(function () {
             class="col-lg-3 col-md-6 col-6 destaque-item d-none d-md-block"
           >
           <a
-          href="https://cybermondaybrasil.com.br/blog/${apiResult[3].post_web_url}.html"
+          href="https://cybermonday.com.br/blog/${apiResult[3].post_web_url}.html"
           class="destaque-link"
         >
           <figure>
